@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | [📰 Read Amanz.my](https://amanz.my/) | [🔗 View open PRs](https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3Ayoozrr-shipx+is%3Aopen) |
-| [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h) | [📋 Jira Board](https://shipx.atlassian.net/jira/software/projects/TK/boards/1) |
+| [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h) | [📋 Jira Board]([https://shipx.atlassian.net/jira/software/projects/TK/boards/1](https://shipx.atlassian.net/jira/software/projects/TK/boards/1?jql=assignee%20%3D%206086151383b8c6006bba6d36)) |
 | [📧 Outlook Email](https://outlook.office.com/mail/) |  |
 
 ---
