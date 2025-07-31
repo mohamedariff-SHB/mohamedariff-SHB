@@ -11,6 +11,8 @@
 | [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h) | [📋 Jira Board](https://shipx.atlassian.net/jira/software/projects/TK/boards/1) |
 | [📧 Outlook Email](https://outlook.office.com/mail/) |  |
 
+---
+
 ### 📊 GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedariff&show_icons=true&theme=default)
