@@ -8,7 +8,7 @@
 | | |
 |---|---|
 | [📰 Read Amanz.my](https://amanz.my/) | [🔗 View open PRs](https://github.com/pulls?q=is%3Apr+archived%3Afalse+user%3Ayoozrr-shipx+is%3Aopen) |
-| [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h) | [📋 Jira Board]((https://shipx.atlassian.net/jira/software/projects/TK/boards/1?jql=assignee%20%3D%206086151383b8c6006bba6d36)) |
+| [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h) | [📋 Jira Board](https://shipx.atlassian.net/jira/software/projects/TK/boards/1?jql=assignee%20%3D%206086151383b8c6006bba6d36) |
 | [📧 Outlook Email](https://outlook.office.com/mail/) |  |
 
 ---
@@ -17,9 +17,3 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedariff&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedariff&layout=compact&theme=default)
-
-
-<!--
-**mohamedariff-SHB/mohamedariff-SHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
