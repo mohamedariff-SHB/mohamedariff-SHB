@@ -1,6 +1,7 @@
 ## Selamat pagi dunia tipu tipu 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedariff&style=flat-square&color=blue)
+![🕒 Malaysia Time](https://img.shields.io/badge/Malaysia%20Time-09:00-blue?logo=clock)
 
 ---
 
@@ -11,8 +12,6 @@
 - [🚨 Check Sentry](https://shipx-24.sentry.io/issues/?project=1205667&statsPeriod=24h)
 - [📋 Jira Board](https://shipx.atlassian.net/jira/software/projects/TK/boards/1)
 - [📧 Outlook Email](https://outlook.office.com/mail/)
-
-> ![🕒 Malaysia Time](https://img.shields.io/badge/Malaysia%20Time-09:00-blue?logo=clock)
 
 ---
 
