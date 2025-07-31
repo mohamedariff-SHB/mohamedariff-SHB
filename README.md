@@ -1,7 +1,6 @@
 ## Selamat pagi dunia tipu tipu 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedariff&style=flat-square&color=blue)
-![🕒 Malaysia Time](https://img.shields.io/badge/Malaysia%20Time-09:00-blue?logo=clock)
 
 ---
 
